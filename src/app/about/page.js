@@ -71,7 +71,7 @@ export default function About() {
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 leading-relaxed max-w-3xl mx-auto">
-          React.js/Next.js Developer with 3+ years of experience building scalable, high-performance web applications using the MERN stack. Delivered 5+ production-ready projects, improving user engagement by up to 25% through modern UI/UX and responsive design. Expert in clean, maintainable code and agile collaboration. 
+          React.js/Next.js Developer with 3+ years of experience building scalable, high-performance web applications using the MERN stack. Delivered 8+ production-ready projects, improving user engagement by up to 25% through modern UI/UX and responsive design. Expert in clean, maintainable code and agile collaboration. 
           </p>
         </div>
       </section>
